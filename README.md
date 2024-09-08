@@ -1,4 +1,4 @@
-# Blogprabhat
+# Blog-Java
 A personal blog website and content management system  using using Java JEE.
 
 The blogging system allows users to view the articles and allows the admin to create/edit/delete articles.
